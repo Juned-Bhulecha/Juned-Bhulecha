@@ -29,6 +29,6 @@ I also work as a freelance and hobbyist graphic designer. My work includes:
 - 💼 LinkedIn: [linkedin.com/in/junedbhulecha](https://www.linkedin.com/in/junedbhulecha)
 - 💻 GitHub: [github.com/JunedBhulecha](https://github.com/Juned-Bhulecha)
 - 📸 Instagram: [@_j.k013](https://www.instagram.com/_j.k013/)
-- 📧 Email: bhulechajuned786@gmail.com
+- 📧 Email: [bhulechajuned786@gmail.com](mailto:bhulechajuned786@gmail.com)
 ---
 🧠 *Always learning. Always building.*
