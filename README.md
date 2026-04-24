@@ -1,34 +1,40 @@
 # 👋 Hi there, I'm Juned Bhulecha
 
-🎓 MCA Student (2024–2026) | BCA Graduate (2022–2024) – Sardar Patel University  
-💻 Frontend Developer | 🤖 AI Enthusiast | 🎨 Graphic Designer  
+🎓 MCA Student (2024–2026) | 💻 Frontend Developer | 🤖 AI Enthusiast | 🎨 Graphic Designer  
+
+🌐 Portfolio: https://junedraza.in  
 
 ---
 
 ## 🚀 About Me
-- 💡 Passionate about building modern web applications & AI-powered solutions  
-- ⚙️ Exploring AI tools like Claude Code (Hooks, MCP, SDK)  
-- 🌐 Portfolio: https://junedraza.in  
-- 📊 Interested in Data Analysis & Problem Solving  
+- 💡 Passionate about Web Development & AI-powered solutions  
+- ⚙️ Working with Claude Code (Hooks, MCP, SDK)  
+- 📊 Exploring Data Analysis & problem solving  
+- 🎯 Goal: Build smart, scalable & user-friendly applications  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-- Python, JavaScript, PHP, C#, .NET  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### 🌐 Web Development
-- HTML, CSS, JavaScript, Flask  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Database
-- MySQL, SQL Server  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 📊 Data & Tools
-- Pandas, NumPy  
-
-### 🎨 Design
-- Photoshop, Illustrator, Figma, Canva, Premiere Pro  
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -39,33 +45,35 @@
 ---
 
 ## 💼 Projects
-- 🛒 **E-commerce Watch Shop** – (.NET, C#, SQL Server)  
-- 📚 **Library Management System** – (PHP, MySQL)  
-- 📥 **Instagram & YouTube Downloader** – (Flask, JS)  
+- 🛒 **E-commerce Watch Shop** (.NET, C#, SQL Server)  
+- 📚 **Library Management System** (PHP, MySQL)  
+- 📥 **Instagram & YouTube Downloader** (Flask, JS)  
 
 ---
 
-## 🎨 Graphic Design
-I create:
-- Logo & Branding  
-- Social Media Creatives  
-- UI/UX Mockups  
-- Posters & Banners  
+## 📊 GitHub Stats
 
-✨ Combining design + development to build better user experiences.
+![Juned's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juned-Bhulecha&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juned-Bhulecha&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Juned-Bhulecha&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/junedbhulecha  
-- 💻 GitHub: https://github.com/Juned-Bhulecha  
 - 🌐 Portfolio: https://junedraza.in  
 - 📧 Email: bhulechajuned786@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
-🚀 I love combining creativity with code to build smart & modern digital experiences.
+🚀 I love combining creativity + code + AI to build modern digital experiences  
 
 ---
 
