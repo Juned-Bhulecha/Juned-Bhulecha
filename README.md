@@ -1,34 +1,72 @@
 # 👋 Hi there, I'm Juned Bhulecha
 
 🎓 MCA Student (2024–2026) | BCA Graduate (2022–2024) – Sardar Patel University  
-💻 Frontend Developer | 🎨 Graphic Designer | 📊 Aspiring Data Analyst
-📊 Skilled in Python, JavaScript, PHP, .NET, SQL, and UI Design  
+💻 Frontend Developer | 🤖 AI Enthusiast | 🎨 Graphic Designer  
+
 ---
-## 🔧 Tools & Technologies
-- HTML, CSS, JavaScript
-- PHP, C#, .NET
-- Python, Pandas, NumPy
-- SQL, MySQL
-- Adobe Photoshop, Illustrator, PremierPro, Adobe Creative Suite, Canva, Figma
+
+## 🚀 About Me
+- 💡 Passionate about building modern web applications & AI-powered solutions  
+- ⚙️ Exploring AI tools like Claude Code (Hooks, MCP, SDK)  
+- 🌐 Portfolio: https://junedraza.in  
+- 📊 Interested in Data Analysis & Problem Solving  
+
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- Python, JavaScript, PHP, C#, .NET  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript, Flask  
+
+### 🗄️ Database
+- MySQL, SQL Server  
+
+### 📊 Data & Tools
+- Pandas, NumPy  
+
+### 🎨 Design
+- Photoshop, Illustrator, Figma, Canva, Premiere Pro  
+
+---
+
+## 📜 Certifications
+- 🎓 Deloitte Data Analytics Virtual Experience  
+- 🤖 Claude Code in Action – Anthropic  
+
+---
+
 ## 💼 Projects
-- **🛒 E-commerce Watch Shop** – Final year BCA project (.NET, C#, SQL Server)
-- **📚 Library Management System** – PHP & MySQL
-- **📥 Instagram/YouTube Downloader** – HTML, JS, Flask
+- 🛒 **E-commerce Watch Shop** – (.NET, C#, SQL Server)  
+- 📚 **Library Management System** – (PHP, MySQL)  
+- 📥 **Instagram & YouTube Downloader** – (Flask, JS)  
+
 ---
-## 🎨 Graphic Design Work
-I also work as a freelance and hobbyist graphic designer. My work includes:
-- Logo and Branding Designs
-- Social Media Posts & Banners
-- UI Mockups and Web Layouts
-- Business Cards, Posters & Flyers
-> Tools I use: Photoshop, Illustrator, Canva, Figma, Premiere Pro, After Effects
-✨ Designing has helped me bring creativity into frontend development by aligning UI/UX with user-centric designs.
+
+## 🎨 Graphic Design
+I create:
+- Logo & Branding  
+- Social Media Creatives  
+- UI/UX Mockups  
+- Posters & Banners  
+
+✨ Combining design + development to build better user experiences.
+
 ---
+
 ## 📫 Connect with Me
-- 💼 LinkedIn: [linkedin.com/in/junedbhulecha](https://www.linkedin.com/in/junedbhulecha)
-- 💻 GitHub: [github.com/JunedBhulecha](https://github.com/Juned-Bhulecha)
-- 📸 Instagram: [@_j.k013](https://www.instagram.com/_j.k013/)
-- 📧 Email: [bhulechajuned786@gmail.com](mailto:bhulechajuned786@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/junedbhulecha  
+- 💻 GitHub: https://github.com/Juned-Bhulecha  
+- 🌐 Portfolio: https://junedraza.in  
+- 📧 Email: bhulechajuned786@gmail.com  
+
 ---
-🧠 *Always learning. Always building.*
+
+## ⚡ Fun Fact
+🚀 I love combining creativity with code to build smart & modern digital experiences.
+
+---
+
+⭐ *Always learning. Always building.*
